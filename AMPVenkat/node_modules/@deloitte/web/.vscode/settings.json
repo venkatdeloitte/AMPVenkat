@@ -1,0 +1,15 @@
+{
+  "git.ignoreLimitWarning": true,
+  "cucumberautocomplete.steps": [
+    "step-definitions/*.js",
+    "node_modules/@deloitte/web/step-definitions/*.js"
+  ],
+  "cucumberautocomplete.syncfeatures": "features/*/*feature",
+  "cucumberautocomplete.strictGherkinCompletion": true,
+  "editor.suggestSelection": "first",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "cucumberautocomplete.smartSnippets": true,
+  "cucumberautocomplete.stepsInvariants": true,
+  "javascript.suggest.paths": true,
+}
